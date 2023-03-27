@@ -26,6 +26,7 @@
 | [ 198. House Robber ](https://leetcode.com/problems/house-robber/)                                                             | False      |   40    | Hard                | Dynamic programming                          |
 | [ 322. Coin Change ](https://leetcode.com/problems/coin-change/)                                                               | True       |   60    | Medium              | Dynamic programming                          |
 | [ 230. Kth Smallest Element in a BST ](https://leetcode.com/problems/kth-smallest-element-in-a-bst/description/)               | False      |   NA    | Easy-Medium         | BST                                          |
+| [ 98. Validate Binary Search Tree ](https://leetcode.com/problems/validate-binary-search-tree/)                                | True       |   NA    | Easy-Medium         | BST                                          |
 |                                                                                                                                |            |         |                     |                                              |
 |                                                                                                                                |            |         |                     |                                              |
 
