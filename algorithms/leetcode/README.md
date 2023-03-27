@@ -28,6 +28,7 @@
 | [ 230. Kth Smallest Element in a BST ](https://leetcode.com/problems/kth-smallest-element-in-a-bst/description/)               | False      |   NA    | Easy-Medium         | BST                                          |
 | [ 98. Validate Binary Search Tree ](https://leetcode.com/problems/validate-binary-search-tree/)                                | True       |   NA    | Easy-Medium         | BST                                          |
 | [ 347. Top K Frequent Elements ](https://leetcode.com/problems/top-k-frequent-elements/description/?orderBy=most_votes)        | False      |   NA    | Easy-Medium         | Heap, BucketSort                             |
+| [ 153. Find Minimum in Rotated Sorted Array ]( https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/ )           | True       |   25    | Easy                | Divide and conquer                           |
 | [ TITLE ]( LINK )                                                                                                              | NA         |   NA    | NA                  | NA                                           |
 |                                                                                                                                |            |         |                     |                                              |
 |                                                                                                                                |            |         |                     |                                              |
