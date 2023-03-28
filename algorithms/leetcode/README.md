@@ -33,6 +33,7 @@
 | [ 62. Unique Paths ]( https://leetcode.com/problems/unique-paths/ )                                                            | True       |   24    | Easy                | DP,DFS                                       |
 | [ 424. Longest Repeating Character ... ]( https://leetcode.com/problems/longest-repeating-character-replacement/description/ ) | False      |   46    | Medium-Hard         | NA                                           |
 | [ 261. Graph Valid Tree ]( https://www.lintcode.com/problem/178/?utm_source=%5B%27sc-bky-zy%27%5D )                            | True       |   43    | Easy-Medium         | Graph                                        |
+| [ 323. Number of Connected Components in an Undirected Graph ]( https://www.youtube.com/watch?v=8f1XPm4WOUc )                  | True       |   30    | Easy                | Graph                                        |
 | [ TITLE ]( LINK )                                                                                                              | NA         |   NA    | NA                  | NA                                           |
 |                                                                                                                                |            |         |                     |                                              |
 |                                                                                                                                |            |         |                     |                                              |
