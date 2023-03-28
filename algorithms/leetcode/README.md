@@ -31,6 +31,7 @@
 | [ 153. Find Minimum in Rotated Sorted Array ]( https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/ )           | True       |   25    | Easy                | Divide and conquer                           |
 | [ 200. Number of Islands ]( https://leetcode.com/problems/number-of-islands/ )                                                 | True       |    5    | Easy                | Graph                                        |
 | [ 62. Unique Paths ]( https://leetcode.com/problems/unique-paths/ )                                                            | True       |   24    | Easy                | DP,DFS                                       |
+| [ 424. Longest Repeating Character ... ]( https://leetcode.com/problems/longest-repeating-character-replacement/description/ ) | False      |   46    | Medium-Hard         | NA                                           |
 | [ TITLE ]( LINK )                                                                                                              | NA         |   NA    | NA                  | NA                                           |
 |                                                                                                                                |            |         |                     |                                              |
 |                                                                                                                                |            |         |                     |                                              |
