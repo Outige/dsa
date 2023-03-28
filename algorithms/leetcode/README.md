@@ -32,6 +32,7 @@
 | [ 200. Number of Islands ]( https://leetcode.com/problems/number-of-islands/ )                                                 | True       |    5    | Easy                | Graph                                        |
 | [ 62. Unique Paths ]( https://leetcode.com/problems/unique-paths/ )                                                            | True       |   24    | Easy                | DP,DFS                                       |
 | [ 424. Longest Repeating Character ... ]( https://leetcode.com/problems/longest-repeating-character-replacement/description/ ) | False      |   46    | Medium-Hard         | NA                                           |
+| [ 261. Graph Valid Tree ]( https://www.lintcode.com/problem/178/?utm_source=%5B%27sc-bky-zy%27%5D )                            | True       |   43    | Easy-Medium         | Graph                                        |
 | [ TITLE ]( LINK )                                                                                                              | NA         |   NA    | NA                  | NA                                           |
 |                                                                                                                                |            |         |                     |                                              |
 |                                                                                                                                |            |         |                     |                                              |
